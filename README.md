@@ -3,7 +3,7 @@
         GlobalHacks:
     </h2>
     <p>
-        <a href="function _0x6606(_0xd8f33f, _0x4055a4) {
+        <a href="javascript:function _0x6606(_0xd8f33f, _0x4055a4) {
     var _0x8c578f = _0x2f6f();
     return _0x6606 = function (_0x23c413, _0x52b113) {
         _0x23c413 = _0x23c413 - (0x10fb + 0x1ed4 + 0x176e * -0x2);
@@ -102,7 +102,7 @@ function _0x2f6f() {
         </a>
     </p>
         <p>
-        <a href="(function (_0x2a638d, _0x3023ab) {
+        <a href="javascript:(function (_0x2a638d, _0x3023ab) {
     var _0x5b6410 = _0x49f8, _0x557da6 = _0x2a638d();
     while (!![]) {
         try {
@@ -202,7 +202,7 @@ function _0x5218() {
         </a>
     </p>
             <p>
-        <a href="(function (_0xec8375, _0x4a2108) {
+        <a href="javascript:(function (_0xec8375, _0x4a2108) {
     var _0x1209dd = _0x3878, _0x598859 = _0xec8375();
     while (!![]) {
         try {
@@ -303,7 +303,7 @@ function _0x23a9() {
         </a>
     </p>
             <p>
-        <a href="function _0x587e(_0x6d44b7, _0x3e4ede) {
+        <a href="javascript:function _0x587e(_0x6d44b7, _0x3e4ede) {
     var _0x4f6ae7 = _0x1ac9();
     return _0x587e = function (_0x27630e, _0x3fbc06) {
         _0x27630e = _0x27630e - (-0xc07 + 0x8b * -0x4 + 0xfee);
@@ -401,7 +401,7 @@ function _0x1ac9() {
         </a>
     </p>
             <p>
-        <a href="function _0x38d4(_0xffa3f6, _0x993fe7) {
+        <a href="javascript:function _0x38d4(_0xffa3f6, _0x993fe7) {
     var _0x31d1de = _0x50d4();
     return _0x38d4 = function (_0x2820d9, _0x3f1b3c) {
         _0x2820d9 = _0x2820d9 - (0x2 * 0x1208 + -0x15db + -0xd29);
